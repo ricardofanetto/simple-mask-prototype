@@ -1,0 +1,1 @@
+String.prototype.mask = require('./simple-mask-prototype');
