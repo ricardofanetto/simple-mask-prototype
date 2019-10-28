@@ -7,6 +7,6 @@ simple-mask-prototype.js
 
 ## Call Example
 <code>
-var str = '29124522000187'
+const str = '29124522000187'
 str.mask('cnpj')
 </code>
