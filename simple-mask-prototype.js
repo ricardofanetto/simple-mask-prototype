@@ -1,4 +1,4 @@
-String.prototype.mask = function (type) {
+module.exports = function (type) {
     const str = this;
     try {
         if (str) {
